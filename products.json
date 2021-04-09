@@ -5,7 +5,7 @@
       "fields": {
         
         "price": 10.99,
-        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/tyfqOL1FAQc" } } }
+        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress8.jpg" } } }
 	
       }
     },
@@ -14,7 +14,7 @@
       "fields": {
        
         "price": 12.99,
-        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/QrOdhsMAQw8" } } }
+        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress1.jpg" } } }
 	
       }
     },
@@ -23,7 +23,7 @@
       "fields": {
        
         "price": 12.99,
-        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/PJRabkuH3_Q" } } }
+        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress2.jpg" } } }
 	
       }
     },
@@ -32,7 +32,7 @@
       "fields": {
         
         "price": 22.99,
-        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/wZgcKvE0vko" } } }
+        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress3.jpg" } } }
 	
       }
     },
@@ -41,7 +41,7 @@
       "fields": {
         
         "price": 88.99,
-        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/_dcZHDd9puM" } } }
+        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress4.jpg" } } }
 	
       }
     },
@@ -50,7 +50,7 @@
       "fields": {
         
         "price": 32.99,
-        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/zP95BaiDAEY" } } }
+        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress5.jpg" } } }
 	
       }
     },
@@ -59,7 +59,7 @@
       "fields": {
         
         "price": 45.99,
-        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/NNbMVCMOEb4" } } }
+        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress6.jpg" } } }
 	
       }
     },
@@ -68,7 +68,7 @@
       "fields": {
         
         "price": 33.99,
-        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/4mLKBKMPoHo" } } }
+        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress7.jpg" } } }
 	
       }
     }
