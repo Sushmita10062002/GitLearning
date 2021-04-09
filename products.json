@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/dress1.jpeg" } } }
+		"ratings": 5.0
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+       
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/dress2.jpeg" } } }
+			"ratings": 4.8
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+       
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/dress3.jpeg" } } }
+		"ratings": 4.9
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/dress4.jpeg" } } }
+		"ratings": 4.7
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/dress5.jpeg" } } }
+		"ratings": 4.7
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/dress6.jpeg" } } }
+		"ratings": 4.6
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/dress7.jpeg" } } }
+		"ratings": 4.5
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/dress10.jpeg" } } }
+		"ratings": 5
+      }
+    }
+  ]
+}
