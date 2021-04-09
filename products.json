@@ -5,7 +5,7 @@
       "fields": {
         
         "price": 10.99,
-        "image": { "fields": { "file": { "url": "./images/dress1.jpeg" } } }
+        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/tyfqOL1FAQc" } } }
 	
       }
     },
@@ -14,7 +14,7 @@
       "fields": {
        
         "price": 12.99,
-        "image": { "fields": { "file": { "url": "./images/dress2.jpeg" } } }
+        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/QrOdhsMAQw8" } } }
 	
       }
     },
@@ -23,7 +23,7 @@
       "fields": {
        
         "price": 12.99,
-        "image": { "fields": { "file": { "url": "./images/dress3.jpeg" } } }
+        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/PJRabkuH3_Q" } } }
 	
       }
     },
@@ -32,7 +32,7 @@
       "fields": {
         
         "price": 22.99,
-        "image": { "fields": { "file": { "url": "./images/dress4.jpeg" } } }
+        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/wZgcKvE0vko" } } }
 	
       }
     },
@@ -41,7 +41,7 @@
       "fields": {
         
         "price": 88.99,
-        "image": { "fields": { "file": { "url": "./images/dress5.jpeg" } } }
+        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/_dcZHDd9puM" } } }
 	
       }
     },
@@ -50,7 +50,7 @@
       "fields": {
         
         "price": 32.99,
-        "image": { "fields": { "file": { "url": "./images/dress6.jpeg" } } }
+        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/zP95BaiDAEY" } } }
 	
       }
     },
@@ -59,7 +59,7 @@
       "fields": {
         
         "price": 45.99,
-        "image": { "fields": { "file": { "url": "./images/dress7.jpeg" } } }
+        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/NNbMVCMOEb4" } } }
 	
       }
     },
@@ -68,7 +68,7 @@
       "fields": {
         
         "price": 33.99,
-        "image": { "fields": { "file": { "url": "./images/dress10.jpeg" } } }
+        "image": { "fields": { "file": { "url": "https://unsplash.com/photos/4mLKBKMPoHo" } } }
 	
       }
     }
