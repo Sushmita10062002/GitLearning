@@ -1,76 +1,44 @@
 {
   "items": [
     {
-      "sys": { "id": "1" },
-      "fields": {
-        
-        "price": 10.99,
-        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress8.jpg" } } }
-	
-      }
+      "id": "1",
+      "price": 11.99,
+      "image": "https://unsplash.com/photos/tyfqOL1FAQc"
     },
     {
-      "sys": { "id": "2" },
-      "fields": {
-       
-        "price": 12.99,
-        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress1.jpg" } } }
-	
-      }
+      "id": "1",
+      "price": 11.99,
+      "image": "https://unsplash.com/photos/tyfqOL1FAQc"
     },
     {
-      "sys": { "id": "3" },
-      "fields": {
-       
-        "price": 12.99,
-        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress2.jpg" } } }
-	
-      }
+      "id": "1",
+      "price": 11.99,
+      "image": "https://unsplash.com/photos/tyfqOL1FAQc"
     },
     {
-      "sys": { "id": "4" },
-      "fields": {
-        
-        "price": 22.99,
-        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress3.jpg" } } }
-	
-      }
+      "id": "1",
+      "price": 11.99,
+      "image": "https://unsplash.com/photos/tyfqOL1FAQc"
     },
     {
-      "sys": { "id": "5" },
-      "fields": {
-        
-        "price": 88.99,
-        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress4.jpg" } } }
-	
-      }
+      "id": "1",
+      "price": 11.99,
+      "image": "https://unsplash.com/photos/tyfqOL1FAQc"
     },
     {
-      "sys": { "id": "6" },
-      "fields": {
-        
-        "price": 32.99,
-        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress5.jpg" } } }
-	
-      }
+      "id": "1",
+      "price": 11.99,
+      "image": "https://unsplash.com/photos/tyfqOL1FAQc"
     },
     {
-      "sys": { "id": "7" },
-      "fields": {
-        
-        "price": 45.99,
-        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress6.jpg" } } }
-	
-      }
+      "id": "1",
+      "price": 11.99,
+      "image": "https://unsplash.com/photos/tyfqOL1FAQc"
     },
     {
-      "sys": { "id": "8" },
-      "fields": {
-        
-        "price": 33.99,
-        "image": { "fields": { "file": { "url": "https://github.com/Sushmita10062002/GitLearning/blob/master/images/dress7.jpg" } } }
-	
-      }
+      "id": "1",
+      "price": 11.99,
+      "image": "https://unsplash.com/photos/tyfqOL1FAQc"
     }
   ]
 }
